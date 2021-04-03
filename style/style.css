@@ -1,0 +1,99 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+}
+.main{
+    height: 1000px;
+}
+.divImage{
+    position: relative;
+    text-align: center;
+}
+.name{
+    
+    font-weight: 800;
+    position:absolute;
+    color: white;
+    font-size: 70px;
+    top: 830px;
+    left: 170px;
+}
+.name2{
+    position: absolute;
+    color: teal;
+    top: 950px;
+    left: 300px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.mImage{
+    width: 50%;
+    float: left;
+    height: 1000px;
+}
+.div2{
+    width: 50%;
+    background-color: rgba(39, 35, 35, 0.664);
+    float: right;
+    height: 100%;
+    
+}
+.div21{
+    padding: 30px;
+}
+.div22{
+    padding-bottom: 25px;
+ }
+.p1{
+    text-align: left;
+    font-size: 80px;
+    font-weight: 600;
+    color: white;
+}
+.p2{
+    font-weight: bold;
+    font-size: 28px;
+    font-style: italic;
+}
+.p3{
+    color: gray;
+    font-weight: 600;
+    letter-spacing: 1px;
+} 
+.icon{
+    color: teal;
+    font-size: 30px;
+}
+h3, h1{
+    color: white;
+}
+hr{
+    border-color: gray;
+}
+.ser{
+    padding-top: 20px;
+    
+}
+.ser1{
+    float: left;
+    width: 40%;
+    
+}
+.ser2{
+    float: right;
+    width: 40%;
+    padding-right: 30px;
+}
+.ser3{
+    width: 40%;
+    float: left;
+    
+}
+.ser4{
+    
+    width: 40%;
+    float: right;
+    padding-right: 30px;
+}
